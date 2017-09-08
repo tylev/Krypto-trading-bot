@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-./src/server/K
+./app/server/K
